@@ -41,7 +41,12 @@ export const IMAGES = {
   GATHERING: 'https://thecollectivehk.com/wp-content/uploads/2023/10/Screenshot-2023-10-31-at-7.08.13-PM.png', 
   CHAOS: 'https://scontent-man2-1.xx.fbcdn.net/v/t1.6435-9/82830642_169559614394232_1504087853318012928_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=FX40-wkcD3cQ7kNvwGcJkEL&_nc_oc=AdlHr5whuErcTXCtzp9dkbHsnt7J_Z80hLp63kx70ZcvI17c-X4A9o0ik-uXNRXPcT0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&_nc_gid=ybjpuU0rNvJcDk1AqIHooQ&oh=00_AfnCF4BuFEWj7_jUGdwKVqa-iuxbwGirLVlc6OfJkDlcEQ&oe=6962409B', 
   POLICE_LIGHTS: 'https://images1.epochhk.com/pictures/371871/721%E8%AA%BF%E9%A0%AD%E8%AD%A6_%E7%B6%B2%E5%9C%96@900x600.jpg', 
-  SUBWAY_INTERIOR: 'https://upload.wikimedia.org/wikipedia/commons/9/96/Yuen_Long_Station_White_Tee_people_attack_citizen_in_platform_20190721.png', 
+  SUBWAY_INTERIOR: 'https://upload.wikimedia.org/wikipedia/commons/9/96/Yuen_Long_Station_White_Tee_people_attack_citizen_in_platform_20190721.png',
+  EMPTY_STATION: 'https://picsum.photos/800/600?grayscale',
+  SHATTERED: 'https://picsum.photos/800/600?blur=2',
+  CCTV: 'https://picsum.photos/800/600?grayscale&blur=1',
+  FEAR: 'https://picsum.photos/800/600?grayscale&contrast=1',
+  AFTERMATH: 'https://picsum.photos/800/600?sepia=1',
 };
 
 const VIDEOS = {
